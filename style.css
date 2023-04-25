@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 50px;
+}
+.char{
+    width: 240px;
+    height: 660px;
+    padding: 20px;
+    background-color: #333;
+    border-radius: 20px;
+    
+}
+.surkh{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: rgb(255, 8, 8);
+    margin: 20px;
+}
+.zard{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 9);
+    margin: 20px;
+}
+.sabz{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: green;
+    margin: 20px;
+}
